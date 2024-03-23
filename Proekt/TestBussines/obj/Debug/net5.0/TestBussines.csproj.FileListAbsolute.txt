@@ -1,0 +1,788 @@
+C:\Users\NOI3_2024\Desktop\Proekt\TestBussines\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\NOI3_2024\Desktop\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.csproj.AssemblyReference.cache
+C:\Users\NOI3_2024\Desktop\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOI3_2024\Desktop\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.AssemblyInfoInputs.cache
+C:\Users\NOI3_2024\Desktop\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.AssemblyInfo.cs
+C:\Users\NOI3_2024\Desktop\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\testhost.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.deps.json
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.json
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.dev.json
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.exe
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\testhost.exe
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.deps.json
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.runtimeconfig.json
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.runtimeconfig.dev.json
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.pdb
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Moq.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.AssemblyInfo.cs
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\obj\Debug\net5.0\TestBuss.297EE6AD.Up2Date
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\obj\Debug\net5.0\refint\TestBussines.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.pdb
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.genruntimeconfig.cache
+C:\Users\User\Desktop\Нова папка (2)\Proekt\TestBussines\obj\Debug\net5.0\ref\TestBussines.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\testhost.exe
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\testhost.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.deps.json
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.json
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.dev.json
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.exe
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.deps.json
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.runtimeconfig.json
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.runtimeconfig.dev.json
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.pdb
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Moq.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\obj\Debug\net5.0\TestBuss.297EE6AD.Up2Date
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\obj\Debug\net5.0\refint\TestBussines.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.pdb
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.genruntimeconfig.cache
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\obj\Debug\net5.0\ref\TestBussines.dll
+C:\Users\User\Desktop\New folder\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\User\Desktop\училище\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\училище\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\училище\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\училище\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.AssemblyInfo.cs
+C:\Users\User\Desktop\училище\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\училище\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\obj\Debug\net5.0\refint\TestBussines.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.pdb
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\testhost.exe
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\testhost.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.deps.json
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.json
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.dev.json
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.exe
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.deps.json
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.runtimeconfig.json
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.runtimeconfig.dev.json
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.pdb
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Moq.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.dll
+C:\Users\User\Desktop\училище\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\User\Desktop\училище\Proekt\TestBussines\obj\Debug\net5.0\TestBuss.297EE6AD.Up2Date
+C:\Users\User\Desktop\училище\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.genruntimeconfig.cache
+C:\Users\User\Desktop\училище\Proekt\TestBussines\obj\Debug\net5.0\ref\TestBussines.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\testhost.exe
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\testhost.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.deps.json
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.json
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.dev.json
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.exe
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.deps.json
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.runtimeconfig.json
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.runtimeconfig.dev.json
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.pdb
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Moq.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.csproj.AssemblyReference.cache
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.AssemblyInfoInputs.cache
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.AssemblyInfo.cs
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.csproj.CoreCompileInputs.cache
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\obj\Debug\net5.0\TestBuss.297EE6AD.Up2Date
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\obj\Debug\net5.0\refint\TestBussines.dll
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.pdb
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.genruntimeconfig.cache
+C:\Users\osask\Desktop\pp\Proekt\TestBussines\obj\Debug\net5.0\ref\TestBussines.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\testhost.exe
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\testhost.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.deps.json
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.json
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.dev.json
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.exe
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.deps.json
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.runtimeconfig.json
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.runtimeconfig.dev.json
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\TestBussines.pdb
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Moq.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\bin\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.AssemblyInfo.cs
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\obj\Debug\net5.0\TestBuss.297EE6AD.Up2Date
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\obj\Debug\net5.0\refint\TestBussines.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.pdb
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\obj\Debug\net5.0\TestBussines.genruntimeconfig.cache
+C:\Users\User\Downloads\Proekt (1)\Proekt\TestBussines\obj\Debug\net5.0\ref\TestBussines.dll

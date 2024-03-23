@@ -1,0 +1,388 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\data\\contexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\data\\contexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\migrations\\20240323184826_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\migrations\\20240323184826_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\migrations\\contextsmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\migrations\\contextsmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\displays\\filmsgenresdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\displays\\filmsgenresdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\displays\\filmsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\displays\\filmsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\displays\\filmpremierdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\displays\\filmpremierdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\displays\\booksgenresdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\displays\\booksgenresdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\displays\\bookpremieredisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\displays\\bookpremieredisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\displays\\bookdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\displays\\bookdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\bussiness\\filmgenrebussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\bussiness\\filmgenrebussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\bussiness\\filmbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\bussiness\\filmbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\bussiness\\film_premiere_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\bussiness\\film_premiere_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\bussiness\\bookgenrebussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\bussiness\\bookgenrebussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\bussiness\\bookbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\bussiness\\bookbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\bussiness\\book_premiere_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\bussiness\\book_premiere_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\data\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\data\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\data\\models\\booksgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\data\\models\\booksgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\data\\models\\book_premiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\data\\models\\book_premiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\data\\models\\film_premiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\data\\models\\film_premiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\data\\models\\filmsgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\data\\models\\filmsgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\osask\\desktop\\final project\\proekt (1)\\proekt\\consoleapp20\\data\\models\\films.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\data\\models\\films.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 192,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContextsModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Migrations\\ContextsModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Migrations\\ContextsModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Migrations\\ContextsModelSnapshot.cs",
+              "RelativeToolTip": "ConsoleApp20\\Migrations\\ContextsModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:31:31.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240323184826_initial.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Migrations\\20240323184826_initial.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Migrations\\20240323184826_initial.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Migrations\\20240323184826_initial.cs",
+              "RelativeToolTip": "ConsoleApp20\\Migrations\\20240323184826_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:31:29.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contexts.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Data\\Contexts.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Data\\Contexts.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Data\\Contexts.cs",
+              "RelativeToolTip": "ConsoleApp20\\Data\\Contexts.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwB8AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T18:18:56.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Program.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Program.cs",
+              "RelativeToolTip": "ConsoleApp20\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T12:12:42.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilmsDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Displays\\FilmsDisplay.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Displays\\FilmsDisplay.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Displays\\FilmsDisplay.cs",
+              "RelativeToolTip": "ConsoleApp20\\Displays\\FilmsDisplay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:26:41.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilmsGenresDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Displays\\FilmsGenresDisplay.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Displays\\FilmsGenresDisplay.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Displays\\FilmsGenresDisplay.cs",
+              "RelativeToolTip": "ConsoleApp20\\Displays\\FilmsGenresDisplay.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T20:25:40.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FilmPremierDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Displays\\FilmPremierDisplay.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Displays\\FilmPremierDisplay.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Displays\\FilmPremierDisplay.cs",
+              "RelativeToolTip": "ConsoleApp20\\Displays\\FilmPremierDisplay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:26:41.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksGenresDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Displays\\BooksGenresDisplay.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Displays\\BooksGenresDisplay.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Displays\\BooksGenresDisplay.cs",
+              "RelativeToolTip": "ConsoleApp20\\Displays\\BooksGenresDisplay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:26:40.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookPremiereDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Displays\\BookPremiereDisplay.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Displays\\BookPremiereDisplay.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Displays\\BookPremiereDisplay.cs",
+              "RelativeToolTip": "ConsoleApp20\\Displays\\BookPremiereDisplay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:26:39.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Displays\\BookDisplay.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Displays\\BookDisplay.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Displays\\BookDisplay.cs",
+              "RelativeToolTip": "ConsoleApp20\\Displays\\BookDisplay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:26:39.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FilmGenreBussiness.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Bussiness\\FilmGenreBussiness.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Bussiness\\FilmGenreBussiness.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Bussiness\\FilmGenreBussiness.cs",
+              "RelativeToolTip": "ConsoleApp20\\Bussiness\\FilmGenreBussiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:26:36.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FilmBussines.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Bussiness\\FilmBussines.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Bussiness\\FilmBussines.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Bussiness\\FilmBussines.cs",
+              "RelativeToolTip": "ConsoleApp20\\Bussiness\\FilmBussines.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:26:35.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Film_Premiere_Business.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Bussiness\\Film_Premiere_Business.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Bussiness\\Film_Premiere_Business.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Bussiness\\Film_Premiere_Business.cs",
+              "RelativeToolTip": "ConsoleApp20\\Bussiness\\Film_Premiere_Business.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:26:34.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookBussiness.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Bussiness\\BookBussiness.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Bussiness\\BookBussiness.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Bussiness\\BookBussiness.cs",
+              "RelativeToolTip": "ConsoleApp20\\Bussiness\\BookBussiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:26:32.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Book_Premiere_Business.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Bussiness\\Book_Premiere_Business.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Bussiness\\Book_Premiere_Business.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Bussiness\\Book_Premiere_Business.cs",
+              "RelativeToolTip": "ConsoleApp20\\Bussiness\\Book_Premiere_Business.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:26:31.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookGenreBussiness.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Bussiness\\BookGenreBussiness.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Bussiness\\BookGenreBussiness.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Bussiness\\BookGenreBussiness.cs",
+              "RelativeToolTip": "ConsoleApp20\\Bussiness\\BookGenreBussiness.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:21:44.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Data\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Data\\Models\\Books.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Data\\Models\\Books.cs",
+              "RelativeToolTip": "ConsoleApp20\\Data\\Models\\Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T20:31:51.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BooksGenre.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Data\\Models\\BooksGenre.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Data\\Models\\BooksGenre.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Data\\Models\\BooksGenre.cs",
+              "RelativeToolTip": "ConsoleApp20\\Data\\Models\\BooksGenre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T18:44:38.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Book_Premiere.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Data\\Models\\Book_Premiere.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Data\\Models\\Book_Premiere.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Data\\Models\\Book_Premiere.cs",
+              "RelativeToolTip": "ConsoleApp20\\Data\\Models\\Book_Premiere.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:55:35.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Film_Premiere.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Data\\Models\\Film_Premiere.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Data\\Models\\Film_Premiere.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Data\\Models\\Film_Premiere.cs",
+              "RelativeToolTip": "ConsoleApp20\\Data\\Models\\Film_Premiere.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:01:43.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FilmsGenre.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Data\\Models\\FilmsGenre.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Data\\Models\\FilmsGenre.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Data\\Models\\FilmsGenre.cs",
+              "RelativeToolTip": "ConsoleApp20\\Data\\Models\\FilmsGenre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T18:47:06.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Films.cs",
+              "DocumentMoniker": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Data\\Models\\Films.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Data\\Models\\Films.cs",
+              "ToolTip": "C:\\Users\\osask\\Desktop\\Final Project\\Proekt (1)\\Proekt\\ConsoleApp20\\Data\\Models\\Films.cs",
+              "RelativeToolTip": "ConsoleApp20\\Data\\Models\\Films.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:57:57.744Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
